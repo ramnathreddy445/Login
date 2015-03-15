@@ -1,0 +1,63 @@
+html { 
+	overflow: hidden;
+}
+label { 
+	font-family: 'Ubuntu', sans-serif;
+}
+#bg1 {
+
+	height:960px;
+	min-width: 100%;
+	min-height: 100%;
+	background: url(../images/bg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.both { 
+	clear: both;
+}
+#loginbox { 
+	padding-top: 0.7%;
+    color: #FFF;
+    background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.34);
+    height: 16%;
+    min-height:160px;
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    border-radius: 5px;
+    border: solid 1px rgba(116, 116, 116, 0.34);
+    margin-right: 5%;
+}
+#Ubuntuinput {
+	margin-top: 1.2%;
+    width: 100%;
+    background: none repeat scroll 0% 0% rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(246, 238, 238, 0.1);
+    height: 35px;
+    border-radius: 5px;
+    padding-left: 15px;
+    	font-family: 'Ubuntu', sans-serif;
+    	
+
+}
+#ubuntuButtom { 
+	color: #fff;
+	border: none;
+	padding: 10px;
+	text-align: center;
+	width: 35%;
+	background-color: rgba(0, 0, 0, 0.32);
+	margin-top: 7%;
+    border-radius:5px;
+
+}
+#ubuntuButtom:hover { 
+	background-color: rgba(0, 0, 0, 0.4);
+
+
+}
+
+
