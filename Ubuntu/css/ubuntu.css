@@ -59,5 +59,15 @@ label {
 
 
 }
+#ubuntuKeepLogin {
+    padding-top: 2px;
+    padding-left: 50px;
+    color: gray;
+}
+#ubuntuKeepLogin input{
+    margin-right: 10px;
+
+}
+
 
 
